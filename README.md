@@ -2,4 +2,4 @@
 
 I'm a frontent software engineer who really likes The Lord of the Rings... how original.
 
-[!Top Languages](./profile/top-langs.svg)
+[![Lucian's Top Langauges](https://github-readme-stats-nu-ebon-40.vercel.app/api/top-langs/?username=missingcurlybracket)](https://github.com/anuraghazra/github-readme-stats)
